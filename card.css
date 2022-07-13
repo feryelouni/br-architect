@@ -1,0 +1,116 @@
+.box1{
+    display: inline-block;
+    margin:0;
+    width: 1500px;
+    
+}
+.intro h3{
+    display: inline-block;
+    color: black;
+    font-family: 'Segoe UI';
+    padding-left:30px;
+    margin-bottom: 10px;
+    margin-top: auto;
+    
+}
+.intro p{
+    display: inline-block;
+    color: black;
+    font-family: 'Segoe UI';
+    padding-left:5px;
+    margin-bottom: 10px;
+    margin-top: auto;
+    font-size:medium;
+    opacity: 0,7;
+    text-size-adjust:initial ;
+ 
+}
+.intro1{
+    display: inline-block;
+    color: black;
+    padding-left: 1030px;
+    font-family: 'Segoe UI';
+    margin-bottom: 10px;
+    margin-top: auto;
+    font-size:small;
+    opacity: 0,7;
+
+}
+.projects h3{
+    font-size: large;
+    font-family: 'Segoe UI';
+}
+.projects{
+    padding-left:20px ;
+    padding-right: 28px;
+}
+.projects img{
+   height: 200px; 
+    width: 360px;
+}
+.projects p{
+    font-family: 'Segoe UI';
+    font-size:medium;
+}
+.about{
+    padding-left:18px ;
+    padding-right: 15px;
+}
+.about h3{
+    font-size: large;
+    font-family: 'Segoe UI';
+}
+.about p{
+    font-family: Verdana;
+}
+.color {
+    color:rgb(181, 176, 176);
+    opacity: .5;
+    margin-bottom: auto;
+    font-size:medium;
+    font-family: Verdana;
+}
+.contact h3{
+    font-size: large;
+    font-family: 'Segoe UI';
+}
+.contact{
+    padding-left:18px ;
+    padding-right: 15px;
+    }
+.contact p{
+    font-size: medium;
+    display: inline-block;
+    margin: auto;
+    color: black;
+    margin-bottom: 10px;
+    
+}
+.contact input{
+    margin-top: 7px;
+    opacity: .5;
+    width: 100%;
+    height:30px;
+}
+.sayed{
+    background-color: black;
+    color: white;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    width:1472px;
+    margin-left: 10px;
+}
+.message{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-left: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
